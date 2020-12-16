@@ -31,4 +31,5 @@ public class MyLocaleResolver implements LocaleResolver {
     public void setLocale(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, Locale locale) {
 
     }
+
 }
