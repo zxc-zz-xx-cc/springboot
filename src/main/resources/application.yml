@@ -1,0 +1,13 @@
+#server:
+#  port: 8888
+#
+#person:
+#  name: zxc
+#  age: 28
+#  handsome: true
+#  birth: 1993/03/14
+#  map: {k1: abc,k2: 123}
+#  list: [zhangsan, lisi]
+#  dog:
+#    name: aaa
+#    age: 2
